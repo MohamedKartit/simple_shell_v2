@@ -7,7 +7,7 @@ Custom version UNIX command language interpreter. This mini shell reads commands
 ## Quick start
 Git clone the repository:
 ```
-https://github.com/MohamedKartit/simple_shell_v2.git
+git clone https://github.com/MohamedKartit/simple_shell_v2.git
 ```
 
 ## Usage
